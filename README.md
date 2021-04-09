@@ -11,7 +11,7 @@
 
 - **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
 
-<p align="center">Currently studying C #, in the area of ​​manufacturing exploits.
+<p align="center">Currently studying C#, in the area of ​​manufacturing exploits.
 
 </p>
 
