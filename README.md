@@ -7,7 +7,7 @@
 
 ---
 
-### Finistro  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
+### Finistro  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F772156298593914025%2F&psig=AOvVaw3vds_5eDTKNnZ7KesH9Gn_&ust=1618230546593000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDLiNqY9u8CFQAAAAAdAAAAABAD" height="20px" width="20px"/>
 
 - **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
 
