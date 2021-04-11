@@ -7,7 +7,8 @@
 
 ---
 
-### Finistro  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F772156298593914025%2F&psig=AOvVaw3vds_5eDTKNnZ7KesH9Gn_&ust=1618230546593000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDLiNqY9u8CFQAAAAAdAAAAABAD" height="20px" width="20px"/>
+### Finistro  <img src="<img src="https://i.pinimg.com/originals/83/aa/e4/83aae4ebd9179aea209a573d6afbe5f4.gif" alt="Avatar" style="border-radius: 50%%;">
+" height="20px" width="20px"/>
 
 - **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
 
