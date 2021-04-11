@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-<img src="https://i.pinimg.com/originals/83/aa/e4/83aae4ebd9179aea209a573d6afbe5f4.gif" alt="Avatar" style="border-radius: 50%%;">
+<img src="https://media.discordapp.net/attachments/819097597146693673/830782978602434610/26d1836d27c8ceb9b34f21620ea53f06.gif" alt="Avatar" style="border-radius: 50%%;">
   </a><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=f1n1str0&color=5d5d5d" alt="Finistro" /> </p>
 
