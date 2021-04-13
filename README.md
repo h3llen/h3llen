@@ -17,7 +17,7 @@
 
 ### 🪐 Personal Biography
 
-> - Hello, my name is v01d, but known as Hellen! I am 15 years old and I am currently living in the state of Goiás, Brazil. I study several things related to Technology & Informatics, currently I do my projects over there.
+> - Hello, my name is H3llen, but known as Hellen! I am 15 years old and I am currently living in the state of Goiás, Brazil. I study several things related to Technology & Informatics, currently I do my projects over there.
 
 ---
  
