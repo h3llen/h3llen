@@ -7,7 +7,7 @@
 
 ---
 
-### Finistro  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
+### Hellen  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
 
 - **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
 
@@ -17,7 +17,7 @@
 
 ### 🪐 Personal Biography
 
-> - Hello, my name is v01d, but known as Finistro!  I am 15 years old and I am currently living in the state of Goiás, Brazil. I study several things related to Technology & Informatics, currently I do my projects over there.
+> - Hello, my name is v01d, but known as Hellen! I am 15 years old and I am currently living in the state of Goiás, Brazil. I study several things related to Technology & Informatics, currently I do my projects over there.
 
 ---
  
@@ -43,7 +43,7 @@
 > 💬 | Of course, it is not mandatory to follow me. Call me on Discord! Let's talk!
 
 ```diff
-- 📋 Discord: originals F1n1str0#1337
+- 📋 Discord: Hellen#1337
 + 🌎 Come talk to me!
 ! 🧠 Can you imagine what we're going to talk about?
 @@App: Discord@@
@@ -86,7 +86,7 @@
 <p align="center"> My GitHub status information.
 </p>
  
-<a href="https://github.com/f1n1str0"><img src="https://github-readme-stats.vercel.app/api?username=f1n1str0&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1n1str0&layout=compact&show_icons=true&theme=tokyonight"> 
+<a href="https://github.com/h3llen"><img src="https://github-readme-stats.vercel.app/api?username=h3llen&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3llen&layout=compact&show_icons=true&theme=tokyonight"> 
 </details>
 
 ---
