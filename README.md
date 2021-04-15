@@ -1,14 +1,92 @@
-![](https://image.prntscr.com/image/iTPbR52KSeuoZMnSijBZDw.png) ![](https://img.shields.io/badge/-c++-blue?logo=c%2B%2B&style=flat)
+<p align="center">
+  <a>
+<img src="https://media.discordapp.net/attachments/819097597146693673/830782978602434610/26d1836d27c8ceb9b34f21620ea53f06.gif" alt="Avatar" style="border-radius: 50%%;">
+  </a><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=f1n1str0&color=5d5d5d" alt="Finistro" /> </p>
 
 
+---
+
+### Hellen  <img src="https://images.emojiterra.com/twitter/v13.0/128px/1f1e7-1f1f7.png" height="20px" width="20px"/>
+
+- **👑 | Welcome to my profile, what are you looking for here? Whatever, it doesn't matter! I hope you become my friend!**
+
+<p align="center">Currently studying C#, in the area of ​​manufacturing exploits.
+
+</p>
+
+### 🪐 Personal Biography
+
+> - Hello, my name is Hellen, but known as Hellen! I am 15 years old and I am currently living in the state of Goiás, Brazil. I study several things related to Technology & Informatics, currently I do my projects over there.
+
+---
+ 
+ <details>
+  <summary> 🍵 History </summary>
+  
+      - 📚 I am a student in Information Engineering and Pentest.
+      - 🌳 I'm 15 years old.
+      - 🧪 I always try to know more!
+      - 📁 I accept new friendships.
+      - 👨🏻‍💻 I am making plans for my future projects.
+
+     
+     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+ 
+</details>
+
+<details>
+  <summary> 🌍 Social Media </summary>
+
+[![Twitter Badge](https://img.shields.io/badge/-@v01dsec1999-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/v01dsec1999)](https://twitter.com/v01dsec1999) [![Youtube Badge](https://img.shields.io/badge/-Castiel-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCP_qe9V1DLBedYBd4kMg4vg)](https://www.youtube.com/channel/UCP_qe9V1DLBedYBd4kMg4vg)
+
+> 💬 | Of course, it is not mandatory to follow me. Call me on Discord! Let's talk!
+
+```diff
+- 📋 Discord: Hellen#1337
++ 🌎 Come talk to me!
+! 🧠 Can you imagine what we're going to talk about?
+@@App: Discord@@
+```
+
+ *Spotify Listening <img src="https://cdn.discordapp.com/attachments/708003453351231560/792778317694107678/joao_musica.gif" height="30px" width="30px"/>*
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/f1n1str0) 
+
+<img src="https://www.vantajs.com/gallery/fb-share-image.jpg" alt="Avatar" style="border-radius: 50%%;">
+
+</details>
+
+<details>
+  <summary> 🔬 And More </summary>
+
+```• I am currently in some private organizations, and making some tools. Given what is new ideas for me!```
+
+```diff
+! 🥼 Working From:
+@@Destiny 運命@@
+```
+  
+---
 
 
-Meu nome é Hellen,tenho 15 anos sou um simples estudante de engeharia da computação é pentest também
-estou muito interessado também em C# 
+</p>
 
+<p align="center">自己动手做吧 ？
 
+</p>
 
-<img src="https://camo.githubusercontent.com/6ed1f63e92394c0143ff3d9a32824dcbbfedd1c20733b4ef414fd8aa872ef434/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831393039373539373134363639333637332f3833303738323937383630323433343631302f32366431383336643237633863656239623334663231363230656135336630362e676966" align=left> 
+</p>
+  
+</details>
 
-[![Anurag's github stats](https://camo.githubusercontent.com/ec989d939eb2336b5061c324ce9e9f0f4dbb6e58b5efa699d522c31c0e804a33/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68336c6c656e2673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874) 
+<details>
+  <summary> 🧪 Stats </summary>
+  </p>
+<p align="center"> My GitHub status information.
+</p>
+ 
+<a href="https://github.com/h3llen"><img src="https://github-readme-stats.vercel.app/api?username=h3llen&show_icons=true&theme=tokyonight"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3llen&layout=compact&show_icons=true&theme=tokyonight"> 
+</details>
 
+---
